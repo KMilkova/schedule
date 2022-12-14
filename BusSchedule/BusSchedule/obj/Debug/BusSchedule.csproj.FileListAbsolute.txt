@@ -1,0 +1,12 @@
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\bin\Debug\BusSchedule.exe.config
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\bin\Debug\BusSchedule.exe
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\bin\Debug\BusSchedule.pdb
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.csproj.AssemblyReference.cache
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.csproj.SuggestedBindingRedirects.cache
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.Main.resources
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.Properties.Resources.resources
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.csproj.GenerateResource.cache
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.csproj.CoreCompileInputs.cache
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.exe
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.pdb
+C:\Users\nasty\OneDrive\Рабочий стол\CourseWorkKPO\BusSchedule\BusSchedule\obj\Debug\BusSchedule.FormForAdmin.resources
